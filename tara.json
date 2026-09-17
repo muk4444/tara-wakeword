@@ -1,4 +1,4 @@
-[{
+{
   "type": "micro",
   "wake_word": "tara",
   "author": "Muk",
@@ -12,4 +12,4 @@
     "feature_step_size": 10,
     "tensor_arena_size": 22860
   }
-}]
+}
