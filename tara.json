@@ -2,6 +2,7 @@
   "type": "micro",
   "wake_word": "tara",
   "author": "Muk",
+  "website": "https://github.com/muk4444/tara-wakeword",
   "model": "tara.tflite",
   "trained_languages": ["de"],
   "version": 2,
