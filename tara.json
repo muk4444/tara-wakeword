@@ -1,0 +1,15 @@
+[{
+  "type": "micro",
+  "wake_word": "tara",
+  "author": "Muk",
+  "website": "",
+  "model": "tara.tflite",
+  "trained_languages": ["de"],
+  "version": 2,
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_size": 5,
+    "feature_step_size": 10,
+    "tensor_arena_size": 22860
+  }
+}]
